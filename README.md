@@ -1,1 +1,1 @@
-# supervised_casestudy_jyothirmai
+# supervised_assignment_jyothirmai
